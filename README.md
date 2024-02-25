@@ -1,8 +1,8 @@
 ## Description de mon projet :
 Celui-ci s'articule en trois fichiers :
 
-object.cpp définit les objets types armes et armures
-personnage.cpp définit les entités, c'est-à-dire les monstres et les joueurs.
+-object.cpp définit les objets types armes et armures
+-personnage.cpp définit les entités, c'est-à-dire les monstres et les joueurs.
 Le fichier main définit la classe quête et son fonctionnement. Ensuite, il y a la boucle principale du jeu.
 
 ## Univers :
@@ -12,10 +12,10 @@ Seules les armes ne sont pas identiques à celles du jeu. Je n'ai pas eu le temp
 
 ## Fonctionnement :
 J'ai implémenté les fonctionnalités suivantes :
-un système de combat entre entités
-farming d'XP en tuant des monstres
-exploration pour trouver du butin
-système de quête principale avec un ordre chronologique pour les deux dernières.
+-un système de combat entre entités
+-farming d'XP en tuant des monstres
+-exploration pour trouver du butin
+-système de quête principale avec un ordre chronologique pour les deux dernières.
 
 ## Conclusion :
 Je me suis globalement bien amusé à réaliser ce projet.
