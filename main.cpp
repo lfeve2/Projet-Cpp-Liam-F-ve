@@ -584,6 +584,7 @@ int main() {
                     quetes[choixQuete - 1].executer();
                     if (choixQuete==3){
                         quetes.push_back(Quete("Après avoir réussi à éliminer la menace du vampire et à restaurer la paix à Novigrad, vous êtes devenu une figure respectée dans la ville. Le roi de Novigrad est impressionné par votre gestion de la situation et souhaite de nouveau faire appel à vos services.",contratOpposantPolitiqueNovigrad,joueur));
+                    // implémentation d'une chronologie dans les quêtes. Celle-ci est la suite de la précedente
                     }
                     quetes[choixQuete - 1].terminer();
                     cout << "Quête terminée : " << quetes[choixQuete - 1].description << endl;
