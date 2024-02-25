@@ -107,7 +107,7 @@ void Monstre_de_la_mine(shared_ptr<Personnage> joueur)
     cout << "2. Continuer à suivre les traces du monstre." << endl;
 
     auto monstre=make_shared<Monstre>("Dragon", make_shared<Arme>("Arme de Monstre", 40), make_shared<Armure>("Armure de Monstre", 10), 50);
-    auto boss=make_shared<Monstre>("Boss", make_shared<Arme>("Arme du Boss", 60), make_shared<Armure>("Armure du Boss", 20), 100);
+    auto boss=make_shared<Monstre>("Dragon doré", make_shared<Arme>("Arme du Boss", 60), make_shared<Armure>("Armure du Boss", 20), 100);
     // variable de déscision. Il faut les définir avant le switch
     int choix;
     cin >> choix;
