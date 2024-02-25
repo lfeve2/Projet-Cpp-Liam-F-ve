@@ -2,7 +2,9 @@
 Celui-ci s'articule en trois fichiers :
 
 -object.cpp définit les objets types armes et armures
+
 -personnage.cpp définit les entités, c'est-à-dire les monstres et les joueurs.
+
 Le fichier main définit la classe quête et son fonctionnement. Ensuite, il y a la boucle principale du jeu.
 
 ## Univers :
