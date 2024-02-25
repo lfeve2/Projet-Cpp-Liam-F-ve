@@ -172,10 +172,10 @@ void Monstre_de_la_mine(shared_ptr<Personnage> joueur)
         }
         break;
     }
-
+    if (joueur->isAlive()) {
     cout << "Finalement, après un combat acharné, vous parvenez à vaincre le monstre et à le terrasser." << endl;
     cout << "Vous avez sauvé les villageois de la menace du monstre." << endl;
-    cout << "Votre réputation de sorceleur légendaire continue de croître." << endl;
+    cout << "Votre réputation de sorceleur légendaire continue de croître." << endl;}
 } 
 void le_monstre_des_marais(shared_ptr<Personnage> joueur) {
     cout << "Vous êtes " <<joueur->name<< ", un sorceleur légendaire, engagé pour traquer un monstre redoutable." << endl;
