@@ -9,14 +9,15 @@ Celui-ci s'articule en trois fichier :
 
 L'inspiration de mon jeu est tout droit tirée du jeu the Witcher 3.
 Les quêtes correspondent aux contrats que l'on peut retrouver dans le jeu, idem pour les monstres et endroits qui sont tirés du jeu.
-Seules les armes ne sont pas identiques aux armes du jeu. Je n'ai pas eu le temps de les renommer
+Seules les armes ne sont pas identiques aux armes du jeu. Je n'ai pas eu le temps de les renommer.
 
 ## Fonctionnement :
-J'ai implémenter trois fonctionnalité :
--un système de combat entre enité
+
+J'ai implémenté les fonctionnalités suivantes :
+-un système de combat entre enités
 -farming d'xp en tuant des monstres
 -exploration pour trouver du loot
--système de quête principale avec un ordre chronologique.
+-système de quête principale avec un ordre chronologique pour les deux dernières.
 
 ## Conclusion :
 
