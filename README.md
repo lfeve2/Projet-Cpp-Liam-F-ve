@@ -23,7 +23,7 @@ J'ai implémenté les fonctionnalités suivantes :
 
 Je me suis globalement bien amusé à réaliser ce projet.
 Seulement, je m'y suis mis trop tard donc je n'ai pu rentrer dans la partie intéressante du code.
-J'aurais aimé implémenter un système de combat  plus complexe prennant en compte l'agilité du personnage ainsi que des capacités des armes et des classes. Le système de combat aurait alors été au tour à tour avec la capacité d'esquiver. J'aurais aussi aimé implémenter un système de range pour les armes à distance.
+J'aurais aimé implémenter un système de combat  plus complexe prennant en compte l'agilité du personnage ainsi que des capacités des armes et des classes. Le système de combat aurait alors été au tour à tour avec la capacité d'esquiver. J'aurais aussi aimé implémenter un système de range pour les armes à distance. Des attributs comme la force auraient aussi leurs place. En effet dans mon jeu la distinction entre les classes est assez minime et existe uniquement au travers de la vie et armure.
 Le système de farming d'xp aurait pu être améliorer en génerant un nombre aléatoire de monstres à tuer et des dégats aléatoires.
 On pourrait aussi ajouter un système de quête secondaire pour améliorer les quêtes principales.
 Enfin on pourrait augmenter le nombre de quête principale.
