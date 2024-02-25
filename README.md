@@ -13,6 +13,7 @@ Seules les armes ne sont pas identiques aux armes du jeu. Je n'ai pas eu le temp
 
 ## Fonctionnement :
 J'ai implémenter trois fonctionnalité :
+-un système de combat entre enité
 -farming d'xp en tuant des monstres
 -exploration pour trouver du loot
 -système de quête principale avec un ordre chronologique.
@@ -25,5 +26,3 @@ J'aurais aimé implémenter un système de combat  plus complexe prennant en com
 Le système de farming d'xp aurait pu être améliorer en génerant un nombre aléatoire de monstres à tuer et des dégats aléatoires.
 On pourrait aussi ajouter un système de quête secondaire pour améliorer les quêtes principales.
 Enfin on pourrait augmenter le nombre de quête principale.
-# Projet-Cpp-Liam-F-ve
-# Projet-Cpp-Liam-F-ve
