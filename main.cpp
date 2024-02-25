@@ -562,8 +562,7 @@ int main() {
                     }
                 joueur->heal(joueur->max_hp);
                 }
-                int xpGagne = 100 + (niveauJoueur * 10); 
-                joueur->getXP(xpGagne);
+                joueur->getXP(100 + (niveauJoueur * 10));
                 joueur->afficherInfos();
                 break;
             case 3:
