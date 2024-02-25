@@ -2,8 +2,8 @@
 Celui-ci s'articule en trois fichiers :
 
 object.cpp définit les objets types armes et armures
-personnage.cpp définit les entités, c'est-à-dire les monstres et les joueurs
-le fichier main définit la classe quête et son fonctionnement. Ensuite, il y a la boucle principale du jeu.
+personnage.cpp définit les entités, c'est-à-dire les monstres et les joueurs.
+Le fichier main définit la classe quête et son fonctionnement. Ensuite, il y a la boucle principale du jeu.
 
 ## Univers :
 L'inspiration de mon jeu est tout droit tirée du jeu The Witcher 3.
