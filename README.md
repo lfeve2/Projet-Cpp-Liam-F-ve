@@ -10,14 +10,20 @@ Le fichier main définit la classe quête et son fonctionnement. Ensuite, il y a
 ## Univers :
 L'inspiration de mon jeu est tout droit tirée du jeu The Witcher 3.
 Les quêtes correspondent aux contrats que l'on peut retrouver dans le jeu, de même pour les monstres et les endroits qui sont tirés du jeu.
+
 Seules les armes ne sont pas identiques à celles du jeu. Je n'ai pas eu le temps de les renommer.
 
 ## Fonctionnement :
 J'ai implémenté les fonctionnalités suivantes :
+
 -un système de combat entre entités
+
 -farming d'XP en tuant des monstres
+
 -exploration pour trouver du butin
+
 -système de quête principale avec un ordre chronologique pour les deux dernières.
+
 
 ## Conclusion :
 Je me suis globalement bien amusé à réaliser ce projet.
