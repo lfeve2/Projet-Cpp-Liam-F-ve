@@ -554,17 +554,17 @@ int main() {
                         if (monstre->isAlive()) {
                             monstre->attaquer(joueur);
                         }
-                int xpGagne = 100 + (niveauJoueur * 10); 
-                joueur->getXP(xpGagne);
-                joueur->heal(joueur->max_hp);
                     }
                     if (!joueur->isAlive()) {
                         cout << "Vous avez été vaincu par " << monstre->name << ". Game Over !" << endl;
                         gameOver = true;
                         break;
                     }
-                joueur->afficherInfos();
+                joueur->heal(joueur->max_hp);
                 }
+                int xpGagne = 100 + (niveauJoueur * 10); 
+                joueur->getXP(xpGagne);
+                joueur->afficherInfos();
                 break;
             case 3:
                 cout << "Vous consultez vos quêtes en cours :" << endl;
